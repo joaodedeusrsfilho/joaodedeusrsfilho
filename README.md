@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**joaodedeusrsfilho/joaodedeusrsfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Oiii! Eu sou o João de Deus
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
