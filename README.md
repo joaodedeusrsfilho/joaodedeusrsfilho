@@ -1,6 +1,5 @@
 ## Oiii! Eu sou o João de Deus
 
-- 📘 Finalizando a Faculdade de Ciências da Computação - Atualmente desenvolvendo monografia de conclusão de curso.
 - 📘 Cursos extra nas plataformas: Curso em vídeo, Rocketseat, Dio Innovetion One
 - 💻 Estudo front-end, já fiz alguns frelance de desenvolvimento de sites
 - 💻 Habilidades com HTML, CSS, JAVASCRIPT, PHP, MYSQL
