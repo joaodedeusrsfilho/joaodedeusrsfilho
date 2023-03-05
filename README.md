@@ -1,4 +1,4 @@
-#Olá eu sou o João de Deus, sou desenvolvedor JAVA.
+# Olá eu sou o João de Deus, sou desenvolvedor JAVA.
 ### Sou Bacharel em Ciências da Computação.
 
 <!--
