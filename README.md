@@ -1,5 +1,5 @@
 ### Olá eu sou o João de Deus, sou desenvolvedor JAVA.
-## Sou Bacharel em Ciências da Computação.
+# Sou Bacharel em Ciências da Computação.
 
 <!--
 **joaodedeusrsfilho/joaodedeusrsfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
