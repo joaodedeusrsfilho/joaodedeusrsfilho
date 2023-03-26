@@ -1,6 +1,6 @@
 ## Olá meu nome é João de Deus, sou desenvolvedor JAVA.
 ### Formação acadêmica
-### 🧑‍🎓💻 Bacharel em Ciência da Computação.
+### 🧑‍🎓💻 Bacharel em Ciências da Computação.
 
 ### 👥 Meus Contatos:
 
