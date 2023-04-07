@@ -4,7 +4,7 @@ Gosto de desafios e da ótima sensação de aprender algo novo a cada dia, resol
 Estou sempre me atualizando via cursos online, atualmente sou estudante da plataforma ALURA.
 
 ### Formação acadêmica
-### 🧑‍🎓💻 Bacharel em Ciências da Computação.
+### 💻 Bacharel em Ciências da Computação.
 
 ### 👥 Meus Contatos:
 
