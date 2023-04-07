@@ -1,7 +1,7 @@
 ## Olá meu nome é João de Deus, sou desenvolvedor JAVA.
 Gosto de desafios e da ótima sensação de aprender algo novo a cada dia, resolvendo problemas e tornando o mundo um lugar melhor através da tecnologia e do desenvolvimento de software.
 
-Estou sempre me atualizando via cursos online, atualmente sou estudante da plataforma ALURA e claro também busco conhecimento em outros plataformas como: dio.me, udemy.com, tutorias e aulas disponíveis no YouTube e demais sites que tratam da área de tecnologia.
+Estou sempre me atualizando via cursos online, atualmente sou estudante da plataforma ALURA.
 
 ### Formação acadêmica
 ### 🧑‍🎓💻 Bacharel em Ciências da Computação.
