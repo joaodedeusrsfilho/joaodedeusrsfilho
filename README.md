@@ -1,5 +1,5 @@
 ## Olá meu nome é João de Deus, sou desenvolvedor Front end, REACTJS.
-Gosto de desafios e da ótima sensação de aprender algo novo a cada dia, resolvendo problemas e tornando o mundo um lugar melhor através da tecnologia e do desenvolvimento de software.
+Gosto de desafios e da ótima sensação de aprender algo novo a cada dia.
 
 Estou sempre me atualizando via cursos online, atualmente sou estudante da plataforma ALURA.
 
